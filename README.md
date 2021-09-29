@@ -22,8 +22,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### The challenge
 
-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
-
 - Build out the project to the designs provided
 
 ### Screenshot
@@ -35,7 +33,7 @@ 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
 ### Links
 
 - Solution URL: [Github](https://github.com/erelita/profile-card-component.git)
-- Live Site URL: [Netlify](https://erelita.github.io/profile-card-component/)
+- Live Site URL: [Github Pages](https://erelita.github.io/profile-card-component/)
 
 ## My process
 
